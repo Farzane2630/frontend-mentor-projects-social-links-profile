@@ -27,12 +27,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Image](https://github.com/user-attachments/assets/fa508ae6-c605-4507-8eb7-17adddeffe62)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Solution URL:](https://www.frontendmentor.io/solutions/frontend-mentor-projects-social-links-WxRR6w7WRl)
+- [Live Site URL: ](https://social-links-profile-hazel-sigma.vercel.app/)
 
 ## My process
 
